@@ -1,0 +1,10 @@
+/run/
+/out/
+/build/
+/.settings/
+/bin/
+/.gradle/
+/.iml/
+/.ipr/
+/.iws/
+/.idea
